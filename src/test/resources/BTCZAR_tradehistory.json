@@ -1,0 +1,1002 @@
+[
+  {
+    "price": "1876795",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:25:27.739Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f936-943b-7326-9c3a-2b502d767326",
+    "quoteVolume": "578.05286"
+  },
+  {
+    "price": "1876678",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:25:27.739Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f936-943b-7c9a-aadc-830614f33c9a",
+    "quoteVolume": "18.76678"
+  },
+  {
+    "price": "1874456",
+    "quantity": "0.00002437",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:21:23.067Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f932-d87b-7b13-92ae-522246d19b13",
+    "quoteVolume": "45.68049272"
+  },
+  {
+    "price": "1873870",
+    "quantity": "0.00053365",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:16:36.944Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f92e-7ad0-7fd1-9e41-37e7d44f5fd1",
+    "quoteVolume": "999.9907255"
+  },
+  {
+    "price": "1874248",
+    "quantity": "0.00004816",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:14:25.441Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f92c-7921-7f6c-9f5b-d12cc03f5f6c",
+    "quoteVolume": "90.26378368"
+  },
+  {
+    "price": "1873861",
+    "quantity": "0.00002709",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:11:49.383Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f92a-1787-7d81-a036-5b65611d2d81",
+    "quoteVolume": "50.76289449"
+  },
+  {
+    "price": "1873628",
+    "quantity": "0.00002051",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:11:10.976Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f929-8180-7415-a095-d3a48beff415",
+    "quoteVolume": "38.42811028"
+  },
+  {
+    "price": "1874999",
+    "quantity": "0.00026665",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:08:58.214Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f927-7ae6-7670-a4a8-e2c8b4017670",
+    "quoteVolume": "499.96848335"
+  },
+  {
+    "price": "1875483",
+    "quantity": "0.00014188",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T21:01:28.469Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f920-9e15-7b6c-92b0-17754c73bb6c",
+    "quoteVolume": "266.09352804"
+  },
+  {
+    "price": "1877642",
+    "quantity": "0.00005325",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:56:37.646Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f91c-2e0e-7525-9186-42569627c525",
+    "quoteVolume": "99.9844365"
+  },
+  {
+    "price": "1876740",
+    "quantity": "0.00007579",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:53:56.908Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f919-ba2c-7970-8b8b-ea9df50b2970",
+    "quoteVolume": "142.2381246"
+  },
+  {
+    "price": "1877103",
+    "quantity": "0.00045815",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:52:25.199Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f918-53ef-7550-8458-798b33fdb550",
+    "quoteVolume": "859.99473945"
+  },
+  {
+    "price": "1878716",
+    "quantity": "0.06943788",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:52:14.391Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f918-29b7-7f18-b8f9-de58f1452f18",
+    "quoteVolume": "130454.05616208"
+  },
+  {
+    "price": "1878717",
+    "quantity": "0.00012468",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:52:08.579Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f918-1303-7d40-9b4c-c900684ded40",
+    "quoteVolume": "234.23843556"
+  },
+  {
+    "price": "1879044",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:38:41.739Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90b-c34b-7fe9-a497-9d01850f7fe9",
+    "quoteVolume": "187.9044"
+  },
+  {
+    "price": "1879028",
+    "quantity": "0.00004824",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:38:34.936Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90b-a8b8-7032-8876-bb8eff2b8032",
+    "quoteVolume": "90.64431072"
+  },
+  {
+    "price": "1879739",
+    "quantity": "0.00000286",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:38:01.893Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90b-27a5-733d-b4ba-53cda7aab33d",
+    "quoteVolume": "5.37605354"
+  },
+  {
+    "price": "1879738",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:38:01.893Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90b-27a5-7649-974b-3dade52c0649",
+    "quoteVolume": "18.79738"
+  },
+  {
+    "price": "1878667",
+    "quantity": "0.01183134",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:37:01.026Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90a-39e2-7fd7-94fa-3d993f8b2fd7",
+    "quoteVolume": "22227.14802378"
+  },
+  {
+    "price": "1878756",
+    "quantity": "0.00002002",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:37:01.026Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90a-39e2-7ebd-89c3-2d008e33cebd",
+    "quoteVolume": "37.61269512"
+  },
+  {
+    "price": "1878757",
+    "quantity": "0.00012761",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:37:01.026Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f90a-39e2-7137-a1c2-362921fde137",
+    "quoteVolume": "239.74818077"
+  },
+  {
+    "price": "1879507",
+    "quantity": "0.00000994",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:33:49.629Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f907-4e3d-75bc-a3b8-0ab5e28ae5bc",
+    "quoteVolume": "18.68229958"
+  },
+  {
+    "price": "1879572",
+    "quantity": "0.00087337",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:29:12.446Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f903-137e-75c8-ba5a-8dc909e535c8",
+    "quoteVolume": "1641.56179764"
+  },
+  {
+    "price": "1879571",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:29:12.446Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f903-137e-775b-a0b5-b42f42a7775b",
+    "quoteVolume": "187.9571"
+  },
+  {
+    "price": "1879351",
+    "quantity": "0.0010908",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:27:19.351Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f901-59b7-7285-a44d-ff5232906285",
+    "quoteVolume": "2049.9960708"
+  },
+  {
+    "price": "1879361",
+    "quantity": "0.00001225",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:26:49.529Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f900-e539-74f6-b604-4ec12c91b4f6",
+    "quoteVolume": "23.02217225"
+  },
+  {
+    "price": "1879357",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:26:49.529Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f900-e539-7564-aee7-24e68b162564",
+    "quoteVolume": "18.79357"
+  },
+  {
+    "price": "1879583",
+    "quantity": "0.017787",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:26:07.175Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f900-3fc7-799d-a42f-e5dacf08399d",
+    "quoteVolume": "33432.142821"
+  },
+  {
+    "price": "1878404",
+    "quantity": "0.00002243",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:22:41.962Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8fd-1e2a-7a27-bfe8-c90444bb8a27",
+    "quoteVolume": "42.13260172"
+  },
+  {
+    "price": "1877951",
+    "quantity": "0.00001261",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:21:39.843Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8fc-2b83-71d6-8230-628a8efe51d6",
+    "quoteVolume": "23.68096211"
+  },
+  {
+    "price": "1877950",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:21:39.843Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8fc-2b83-7fb5-845d-62231f947fb5",
+    "quoteVolume": "18.7795"
+  },
+  {
+    "price": "1877157",
+    "quantity": "0.00001293",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:20:17.224Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8fa-e8c8-7719-9bd2-d8f214b97719",
+    "quoteVolume": "24.27164001"
+  },
+  {
+    "price": "1877158",
+    "quantity": "0.00001005",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:20:17.224Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8fa-e8c8-7256-b12d-32a473635256",
+    "quoteVolume": "18.8654379"
+  },
+  {
+    "price": "1876145",
+    "quantity": "0.00000086",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:17:13.937Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8f8-1cd1-79fb-a7a1-0a66e2e579fb",
+    "quoteVolume": "1.6134847"
+  },
+  {
+    "price": "1876144",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:17:13.937Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8f8-1cd1-70ef-bb55-0a9cab94c0ef",
+    "quoteVolume": "18.76144"
+  },
+  {
+    "price": "1875863",
+    "quantity": "0.00001335",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:16:52.778Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8f7-ca2a-7203-87f8-d195d3839203",
+    "quoteVolume": "25.04277105"
+  },
+  {
+    "price": "1875862",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:16:52.778Z",
+    "takerSide": "buy",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8f7-ca2a-73d9-aa65-7169fc8ec3d9",
+    "quoteVolume": "18.75862"
+  },
+  {
+    "price": "1875848",
+    "quantity": "0.00005325",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:13:10.815Z",
+    "takerSide": "sell",
+    "sequenceId": 1.370000000002671e+18,
+    "id": "0199f8f4-671f-7120-bd61-860c5c8c0120",
+    "quoteVolume": "99.888906"
+  },
+  {
+    "price": "1875856",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:13:10.815Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f4-671f-7e49-b3b7-ef527ca02e49",
+    "quoteVolume": "18.75856"
+  },
+  {
+    "price": "1877185",
+    "quantity": "0.00026636",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:12:25.238Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f3-b516-7284-8eba-123d810a0284",
+    "quoteVolume": "500.0069966"
+  },
+  {
+    "price": "1878029",
+    "quantity": "0.02192328",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:11:07.128Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f2-83f8-7a0c-95c2-cbc9c9927a0c",
+    "quoteVolume": "41172.55561512"
+  },
+  {
+    "price": "1878311",
+    "quantity": "0.00002003",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:11:07.128Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f2-83f8-77a7-909b-3e405c7a77a7",
+    "quoteVolume": "37.62256933"
+  },
+  {
+    "price": "1878796",
+    "quantity": "0.00000957",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:10:42.622Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f2-243e-7abe-ab85-0bc5cd409abe",
+    "quoteVolume": "17.98007772"
+  },
+  {
+    "price": "1879428",
+    "quantity": "0.0000133",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:09:57.443Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f1-73c3-7a81-84a7-0e65efa80a81",
+    "quoteVolume": "24.9963924"
+  },
+  {
+    "price": "1879597",
+    "quantity": "0.0017025",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:09:40.935Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f1-3347-78ac-81f8-b51365d7b8ac",
+    "quoteVolume": "3200.0138925"
+  },
+  {
+    "price": "1879996",
+    "quantity": "0.00009424",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:09:08.285Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f0-b3bd-7a80-a587-afd648281a80",
+    "quoteVolume": "177.17082304"
+  },
+  {
+    "price": "1879995",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:09:08.285Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f0-b3bd-7077-b1d0-1655f70a5077",
+    "quoteVolume": "187.9995"
+  },
+  {
+    "price": "1879714",
+    "quantity": "0.00002204",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:08:56.066Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8f0-8402-79b7-b2d6-92050952b9b7",
+    "quoteVolume": "41.42889656"
+  },
+  {
+    "price": "1879421",
+    "quantity": "0.01010949",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:07:29.774Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8ef-32ee-73be-9fae-ee5b0ebe83be",
+    "quoteVolume": "18999.98780529"
+  },
+  {
+    "price": "1876684",
+    "quantity": "0.00001811",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:03:37.102Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8eb-a60e-7a81-aeb4-7176c005da81",
+    "quoteVolume": "33.98674724"
+  },
+  {
+    "price": "1876630",
+    "quantity": "0.00026643",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T20:03:30.309Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8eb-8b85-71d8-a373-83ae0f4701d8",
+    "quoteVolume": "499.9905309"
+  },
+  {
+    "price": "1875834",
+    "quantity": "0.02665481",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:56:40.047Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8e5-48ef-786c-9cd2-0a6ef308b86c",
+    "quoteVolume": "49999.99886154"
+  },
+  {
+    "price": "1876058",
+    "quantity": "0.00026651",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:52:45.222Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8e1-b3a6-7de8-b8a9-03da247eade8",
+    "quoteVolume": "499.98821758"
+  },
+  {
+    "price": "1875921",
+    "quantity": "0.00004867",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:51:32.809Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8e0-98c9-7f94-82be-a30066a70f94",
+    "quoteVolume": "91.30107507"
+  },
+  {
+    "price": "1876596",
+    "quantity": "0.00110294",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:51:15.342Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8e0-548e-7263-bdc2-08cf5b7b0263",
+    "quoteVolume": "2069.77279224"
+  },
+  {
+    "price": "1876595",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:51:15.342Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8e0-548e-71cc-9d1d-82e435fab1cc",
+    "quoteVolume": "18.76595"
+  },
+  {
+    "price": "1876028",
+    "quantity": "0.00082279",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:48:42.570Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dd-ffca-7485-a63f-f2e66a1eb485",
+    "quoteVolume": "1543.57707812"
+  },
+  {
+    "price": "1876029",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:48:42.570Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dd-ffca-782c-9711-e378df32f82c",
+    "quoteVolume": "187.6029"
+  },
+  {
+    "price": "1875901",
+    "quantity": "0.0022989",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:48:22.332Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dd-b0bc-762d-b9a3-4f2b9e17962d",
+    "quoteVolume": "4312.5088089"
+  },
+  {
+    "price": "1875901",
+    "quantity": "0.00005",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:48:17.527Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dd-9df7-776c-b206-952ddf5ef76c",
+    "quoteVolume": "93.79505"
+  },
+  {
+    "price": "1876363",
+    "quantity": "0.00026647",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:48:05.347Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dd-6e63-7dab-8473-b229e078cdab",
+    "quoteVolume": "499.99444861"
+  },
+  {
+    "price": "1875000",
+    "quantity": "0.000008",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:47:08.167Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8dc-8f07-7ee1-aa30-95d130c25ee1",
+    "quoteVolume": "15"
+  },
+  {
+    "price": "1874999",
+    "quantity": "0.01333334",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:45:43.592Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8db-44a8-7005-a8c9-44e6b3399005",
+    "quoteVolume": "24999.99916666"
+  },
+  {
+    "price": "1874581",
+    "quantity": "0.00093468",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:43:46.284Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d9-7a6c-7ee3-9a54-8e44fdd81ee3",
+    "quoteVolume": "1752.13336908"
+  },
+  {
+    "price": "1874222",
+    "quantity": "0.00000886",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:43:34.693Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d9-4d25-7a51-823b-b8b49d8d5a51",
+    "quoteVolume": "16.60560692"
+  },
+  {
+    "price": "1874574",
+    "quantity": "0.0000193",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:42:13.258Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d8-0f0a-72b0-ac1b-70d256ccf2b0",
+    "quoteVolume": "36.1792782"
+  },
+  {
+    "price": "1874541",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:42:13.258Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d8-0f0a-7366-9262-1cdf8f678366",
+    "quoteVolume": "18.74541"
+  },
+  {
+    "price": "1874184",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:40:52.916Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d6-d534-7564-9d9f-e9b4e427b564",
+    "quoteVolume": "187.4184"
+  },
+  {
+    "price": "1874421",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:39:58.313Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d5-ffe9-7818-994b-16f5a9f3b818",
+    "quoteVolume": "187.4421"
+  },
+  {
+    "price": "1874161",
+    "quantity": "0.0000499",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:39:43.255Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d5-c517-7c65-bf5d-ce5a50535c65",
+    "quoteVolume": "93.5206339"
+  },
+  {
+    "price": "1873986",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:38:43.688Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8d4-dc68-7c08-96f1-bcc6adb86c08",
+    "quoteVolume": "187.3986"
+  },
+  {
+    "price": "1873351",
+    "quantity": "0.00272466",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:25:05.213Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c8-5f3d-74a8-871a-6b189d5914a8",
+    "quoteVolume": "5104.24453566"
+  },
+  {
+    "price": "1873457",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:25:05.213Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c8-5f3d-751d-a83b-9896c43c051d",
+    "quoteVolume": "187.3457"
+  },
+  {
+    "price": "1873459",
+    "quantity": "0.00002002",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:25:05.213Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c8-5f3d-7c0e-8f9d-3843d37d2c0e",
+    "quoteVolume": "37.50664918"
+  },
+  {
+    "price": "1873788",
+    "quantity": "0.00052368",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:24:58.131Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c8-4393-73e1-96d7-3874a85573e1",
+    "quoteVolume": "981.26529984"
+  },
+  {
+    "price": "1873783",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:24:58.131Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c8-4393-7386-8ca8-cd1373d5b386",
+    "quoteVolume": "18.73783"
+  },
+  {
+    "price": "1873541",
+    "quantity": "0.00246208",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:23:50.136Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c7-39f8-7f76-8049-fd5e9ebbef76",
+    "quoteVolume": "4612.80782528"
+  },
+  {
+    "price": "1873542",
+    "quantity": "0.0008037",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:23:45.299Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c7-2713-764b-a47c-030418b5664b",
+    "quoteVolume": "1505.7657054"
+  },
+  {
+    "price": "1873541",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:23:45.299Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8c7-2713-7645-987b-15c66e387645",
+    "quoteVolume": "18.73541"
+  },
+  {
+    "price": "1872716",
+    "quantity": "0.00005132",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:11:56.919Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8bc-57f7-7fbe-a17e-e1327a04afbe",
+    "quoteVolume": "96.10778512"
+  },
+  {
+    "price": "1872222",
+    "quantity": "0.00743333",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:10:54.028Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8bb-624c-709c-839a-a1b85041609c",
+    "quoteVolume": "13916.84395926"
+  },
+  {
+    "price": "1872438",
+    "quantity": "0.00001002",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:10:54.028Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8bb-624c-7a14-9ce3-e201b0e96a14",
+    "quoteVolume": "18.76182876"
+  },
+  {
+    "price": "1872324",
+    "quantity": "0.00096819",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:06:16.261Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b7-2545-78e8-981f-5edc268ee8e8",
+    "quoteVolume": "1812.76537356"
+  },
+  {
+    "price": "1872324",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:06:16.261Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b7-2545-7016-9f7d-3b41674d6016",
+    "quoteVolume": "187.2324"
+  },
+  {
+    "price": "1872525",
+    "quantity": "0.0002542",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:05:48.617Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b6-b949-744d-a9c3-655c4fc3244d",
+    "quoteVolume": "475.995855"
+  },
+  {
+    "price": "1872173",
+    "quantity": "0.00019",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:04:18.971Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b5-5b1b-7fac-bf99-7184f38c6fac",
+    "quoteVolume": "355.71287"
+  },
+  {
+    "price": "1871691",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:04:18.971Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b5-5b1b-7135-afdb-ee9712428135",
+    "quoteVolume": "18.71691"
+  },
+  {
+    "price": "1871071",
+    "quantity": "0.00005423",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:04:15.839Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026708e+18,
+    "id": "0199f8b5-4edf-728b-8189-c450dd4e928b",
+    "quoteVolume": "101.46818033"
+  },
+  {
+    "price": "1872812",
+    "quantity": "0.0002",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T19:02:11.755Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8b3-6a2b-7034-a1dd-b06e9e095034",
+    "quoteVolume": "374.5624"
+  },
+  {
+    "price": "1872015",
+    "quantity": "0.000073",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:59:13.554Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8b0-b212-7c11-a1ea-fe4a46b13c11",
+    "quoteVolume": "136.657095"
+  },
+  {
+    "price": "1871972",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:56:56.957Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8ae-9c7d-7abd-a7ca-ed7011bdeabd",
+    "quoteVolume": "187.1972"
+  },
+  {
+    "price": "1871621",
+    "quantity": "0.00066317",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:49:55.081Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a8-2c89-71f0-ba6c-6016480e41f0",
+    "quoteVolume": "1241.20289857"
+  },
+  {
+    "price": "1871663",
+    "quantity": "0.00001002",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:49:55.081Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a8-2c89-7ffd-9e9a-89824c85affd",
+    "quoteVolume": "18.75406326"
+  },
+  {
+    "price": "1872193",
+    "quantity": "0.00080119",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:49:43.474Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a7-ff32-78d9-bca8-af7d5a2dd8d9",
+    "quoteVolume": "1499.98230967"
+  },
+  {
+    "price": "1872406",
+    "quantity": "0.00016703",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:48:34.294Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a6-f0f6-715a-99dd-86834d9c315a",
+    "quoteVolume": "312.74797418"
+  },
+  {
+    "price": "1872405",
+    "quantity": "0.0001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:48:34.294Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a6-f0f6-7046-852b-9ae6cc9fa046",
+    "quoteVolume": "187.2405"
+  },
+  {
+    "price": "1872639",
+    "quantity": "0.00004005",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:45:31.399Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a4-2687-7cb2-b2a0-42d7f9b5acb2",
+    "quoteVolume": "74.99919195"
+  },
+  {
+    "price": "1872777",
+    "quantity": "0.00001669",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:44:41.477Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a3-6385-7e1a-9f18-ff6e35288e1a",
+    "quoteVolume": "31.25664813"
+  },
+  {
+    "price": "1872776",
+    "quantity": "0.00001",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:44:41.477Z",
+    "takerSide": "buy",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a3-6385-7128-b7a2-17b6f6ccb128",
+    "quoteVolume": "18.72776"
+  },
+  {
+    "price": "1872160",
+    "quantity": "0.00061789",
+    "currencyPair": "BTCZAR",
+    "tradedAt": "2025-10-18T18:43:14.231Z",
+    "takerSide": "sell",
+    "sequenceId": 1.3700000000026706e+18,
+    "id": "0199f8a2-0eb7-7861-9492-7622b96ea861",
+    "quoteVolume": "1156.7889424"
+  }
+]

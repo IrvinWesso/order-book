@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/kotlin/orderbook/controller/OrderController.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/domain/Order.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/domain/OrderBook.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/domain/Trade.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/service/MatchingEngine.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/service/OrderBookService.kt;C:/Users/Irvin/IdeaProjects/order-book/src/main/kotlin/orderbook/OrderBookApplication.kt;C:/Users/Irvin/IdeaProjects/order-book/src/test/kotlin/orderbook/service/OrderBookServiceTest.kt" />
+  </component>
+</project>

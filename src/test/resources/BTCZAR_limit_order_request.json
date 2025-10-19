@@ -1,0 +1,10 @@
+{
+  "side": "BUY",
+  "quantity": "0.0001",
+  "price": "1876795",
+  "pair": "BTCZAR",
+  "postOnly": false,
+  "customerOrderId": "123",
+  "timeInForce": "GTC",
+  "allowMargin": false
+}
