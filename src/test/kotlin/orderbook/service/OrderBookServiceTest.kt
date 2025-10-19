@@ -1,5 +1,6 @@
 package orderbook.service
 
+import orderbook.exception.OrderValidationException
 import orderbook.model.LimitOrderRequest
 import orderbook.model.OrderBook
 import orderbook.model.enum.Side
@@ -102,11 +103,11 @@ class OrderBookServiceTest {
         )
 
         // Expect an exception when submitting the invalid order
-        val exception = assertThrows(IllegalArgumentException::class.java) {
+        val exception = assertThrows(OrderValidationException::class.java) {
             service.submitLimitOrder(request)
         }
         // Verify exception message contains expected text
-        assertTrue(exception.message!!.contains("quantity must be non-negative"))
+        assertTrue(exception.message!!.contains("greater than zero"))
     }
 
     @Test

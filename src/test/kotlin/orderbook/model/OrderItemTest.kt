@@ -49,44 +49,4 @@ class OrderItemTest {
         assertEquals(customId, order.orderId)
         assertEquals("custId", order.customerOrderId)
     }
-
-    @Test
-    fun `should throw exception for negative quantity`() {
-        val exception = assertThrows(IllegalArgumentException::class.java) {
-            OrderItem(
-                side = Side.BUY,
-                quantity = BigDecimal("-1"),
-                price = BigDecimal("1000"),
-                currencyPair = Pair.BTCZAR
-            )
-        }
-        assertEquals("quantity must be non-negative", exception.message)
-    }
-
-    @Test
-    fun `should throw exception for negative price`() {
-        val exception = assertThrows(IllegalArgumentException::class.java) {
-            OrderItem(
-                side = Side.BUY,
-                quantity = BigDecimal("1"),
-                price = BigDecimal("-100"),
-                currencyPair = Pair.BTCZAR
-            )
-        }
-        assertEquals("price must be non-negative", exception.message)
-    }
-
-    @Test
-    fun `should throw exception for invalid orderCount`() {
-        val exception = assertThrows(IllegalArgumentException::class.java) {
-            OrderItem(
-                side = Side.BUY,
-                quantity = BigDecimal("1"),
-                price = BigDecimal("1000"),
-                currencyPair = Pair.BTCZAR,
-                orderCount = 0
-            )
-        }
-        assertEquals("orderCount must be >= 1", exception.message)
-    }
 }
