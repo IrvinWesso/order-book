@@ -66,7 +66,7 @@ The following classes handle authentication and authorization:
 
 ### Running the Application:
 #### Codespaces:
-1. Navigate to codespaces and open project (Using main branch)
+1. Navigate to codespaces on git and open project (Using main branch)
 2. Once project is loaded, open terminal and run:
 ```bash
 # Build the project
@@ -75,8 +75,11 @@ mvn clean install
 # Run the Spring Boot application
 mvn spring-boot:run
 ```
-3. 
-#### The API server will start on http://localhost:8080.
+3. The port should be forwarded to 8080 automatically BUT it should be changed to visibility = public. To do this:
+    - Click on the "Ports" tab at the bottom of the Codespaces window.
+    - Find port 8080 in the list.
+    - Right Click on the port entry of 8080 and select port visibility "Public".
+#### The API server will start on something similar to https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/
 
 ### Manual Testing with Postman
 #### User Credentials (for Postman) - Add to Basic Auth Type
@@ -93,7 +96,7 @@ mvn spring-boot:run
 
 ### STEP 1: View Initial Order Book (Returns initial dummy data)
 #### Request
-GET http://localhost:8080/api/BTCZAR/orderbook
+GET https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/BTCZAR/orderbook
 
 #### Expected Response:
 ````
@@ -113,7 +116,7 @@ GET http://localhost:8080/api/BTCZAR/orderbook
 
 #### STEP 2: Submit a SELL Limit Order that doesn't match immediately. (i.e., price higher than top BUY)
 #### Request (Auth Required)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
@@ -319,11 +322,11 @@ mvn test
 
 #### Viewing Test Reports in Browser
 ```bash
-#You can generate the HTML report and open it directly in your browser:
-mvn surefire-report:report
+#You can generate the HTML report directly on code spaces. Run the below
+# command and open it directly in your browser:
+mvn clean test surefire-report:report && cd target/reports && python3 -m http.server 8081
 
-#After this, the report is located at: target/reports/surefire.html
-#Just right click and open in browser
+#Once opened, select surefire.html to review the report.
 ```
 
 ### Summary
