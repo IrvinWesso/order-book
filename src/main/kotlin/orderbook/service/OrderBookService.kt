@@ -166,11 +166,18 @@ class OrderBookService {
 
     /** Validates that order fields are correct */
     private fun validateOrder(order: OrderItem) {
-        require(order.price > BigDecimal.ZERO) { throw OrderValidationException("Order price must be greater than zero") }
-        require(order.quantity > BigDecimal.ZERO) { throw OrderValidationException("Order quantity must be greater than zero") }
-        require(order.currencyPair.toString().isNotBlank()) { throw OrderValidationException("Currency pair cannot be blank") }
+        if (order.price <= BigDecimal.ZERO) {
+            throw OrderValidationException("Order price must be greater than zero")
+        }
+        if (order.quantity <= BigDecimal.ZERO) {
+            throw OrderValidationException("Order quantity must be greater than zero")
+        }
+        if (order.currencyPair.toString().isBlank()) {
+            throw OrderValidationException("Currency pair cannot be blank")
+        }
         logger.debug("Validated order: $order")
     }
+
 
     /** Returns the next sequential ID for trade records */
     private fun nextSequenceId(): Long = ++sequenceCounter

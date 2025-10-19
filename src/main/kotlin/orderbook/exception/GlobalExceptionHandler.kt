@@ -1,9 +1,11 @@
-package orderbook.exception
+package org.example.orderbook.exception
 
+import orderbook.exception.OrderNotFoundException
+import orderbook.exception.OrderValidationException
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
-import org.springframework.web.bind.annotation.ControllerAdvice
 import org.springframework.web.bind.annotation.ExceptionHandler
+import org.springframework.web.bind.annotation.RestControllerAdvice
 import java.time.Instant
 
 data class ErrorResponse(
@@ -12,8 +14,8 @@ data class ErrorResponse(
     val status: Int
 )
 
-@ControllerAdvice
-class GlobalExceptionHandler {
+@RestControllerAdvice
+open class GlobalExceptionHandler {
     @ExceptionHandler(OrderValidationException::class)
     fun handleValidation(e: OrderValidationException): ResponseEntity<ErrorResponse> {
         val error = ErrorResponse(message = e.message ?: "Invalid order", status = HttpStatus.BAD_REQUEST.value())

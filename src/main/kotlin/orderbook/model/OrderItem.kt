@@ -14,10 +14,4 @@ data class OrderItem(
     val orderCount: Int = 1,
     val orderId: String = UUID.randomUUID().toString(),
     override val customerOrderId: String = ""
-) : BaseOrder(side, quantity, price, customerOrderId) {
-    init {
-        require(quantity.signum() >= 0) { "quantity must be non-negative" }
-        require(price.signum() >= 0) { "price must be non-negative" }
-        require(orderCount >= 1) { "orderCount must be >= 1" }
-    }
-}
+) : BaseOrder(side, quantity, price, customerOrderId)
