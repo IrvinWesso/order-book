@@ -1,0 +1,15 @@
+{
+  "name": "Kotlin Maven",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {
+    "maven": "latest"
+  },
+  "postCreateCommand": "mvn clean install",
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {
+      "label": "Spring Boot",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
