@@ -64,6 +64,10 @@ The following classes handle authentication and authorization:
 - GitHub Codespaces or local IDE
 - Postman for API testing
 
+### Running the Application:
+#### Codespaces:
+1. Navigate to codespaces and open project (Using main branch)
+2. Once project is loaded, open terminal and run:
 ```bash
 # Build the project
 mvn clean install
@@ -71,13 +75,8 @@ mvn clean install
 # Run the Spring Boot application
 mvn spring-boot:run
 ```
-
-
-### Running the API Server
+3. 
 #### The API server will start on http://localhost:8080.
-#### Port Forwarding in Codespaces
-
-Forward port 8080 from Codespaces to your local machine to access the API.
 
 ### Manual Testing with Postman
 #### User Credentials (for Postman) - Add to Basic Auth Type
