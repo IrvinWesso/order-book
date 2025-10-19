@@ -73,7 +73,7 @@ The following classes handle authentication and authorization:
 mvn clean install
 
 # Run the Spring Boot application
-mvn spring-boot:run
+c
 ```
 3. The port should be forwarded to 8080 automatically BUT it should be changed to visibility = public. To do this:
     - Click on the "Ports" tab at the bottom of the Codespaces window.
@@ -142,7 +142,7 @@ Explanation:
 
 #### STEP 3: Submit a BUY Order that Triggers a Match. (i.e., price >= best SELL price)
 #### Request (Auth Required)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
@@ -170,7 +170,7 @@ Explanation:
 
 #### STEP 4: Check Updated Order Book
 #### Request 
-GET http://localhost:8080/api/BTCZAR/orderbook
+GET https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/BTCZAR/orderbook
 
 #### Expected Response:
 ````
@@ -192,7 +192,7 @@ GET http://localhost:8080/api/BTCZAR/orderbook
 
 #### STEP 5: Retrieve Recent Trades
 #### Request
-GET http://localhost:8080/api/BTCZAR/tradehistory
+GET https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/BTCZAR/tradehistory
 
 #### Expected Response:
 ````
@@ -212,13 +212,13 @@ GET http://localhost:8080/api/BTCZAR/tradehistory
 
 ## Error / Validation Test Scenarios
 #### Submit Without Auth (Negative)
-POST http://localhost:8080/api/orders/limit  (No auth header)
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit  (No auth header)
 
 Expected
 - 401 Unauthorized
 
 #### Negative Price (OrderValidationException)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
@@ -241,7 +241,7 @@ POST http://localhost:8080/api/orders/limit
 ````
 
 #### Zero Quantity (OrderValidationException)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
@@ -266,7 +266,7 @@ POST http://localhost:8080/api/orders/limit
 ````
 
 #### Invalid Pair (Exception / IllegalArgumentException)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
@@ -291,7 +291,7 @@ POST http://localhost:8080/api/orders/limit
 ````
 
 #### Missing Field (General Exception)
-POST http://localhost:8080/api/orders/limit
+POST https://animated-space-cod-75p47grjg6r297r-8080.app.github.dev/api/orders/limit
 
 #### Body:
 ````
