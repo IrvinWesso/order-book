@@ -73,7 +73,7 @@ The following classes handle authentication and authorization:
 mvn clean install
 
 # Run the Spring Boot application
-c
+mvn spring-boot:run
 ```
 3. The port should be forwarded to 8080 automatically BUT it should be changed to visibility = public. To do this:
     - Click on the "Ports" tab at the bottom of the Codespaces window.
